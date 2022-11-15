@@ -1,16 +1,13 @@
 {
   "files": {
-    "main.css": "/github.oi/palindromecheker/static/css/main.073c9b0a.css",
-    "main.js": "/github.oi/palindromecheker/static/js/main.2cc6929c.js",
-    "static/js/787.a19b4cac.chunk.js": "/github.oi/palindromecheker/static/js/787.a19b4cac.chunk.js",
-    "static/media/logo.svg": "/github.oi/palindromecheker/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "main.css": "/github.oi/palindromecheker/static/css/main.6e96ef82.css",
+    "main.js": "/github.oi/palindromecheker/static/js/main.54f12e72.js",
     "index.html": "/github.oi/palindromecheker/index.html",
-    "main.073c9b0a.css.map": "/github.oi/palindromecheker/static/css/main.073c9b0a.css.map",
-    "main.2cc6929c.js.map": "/github.oi/palindromecheker/static/js/main.2cc6929c.js.map",
-    "787.a19b4cac.chunk.js.map": "/github.oi/palindromecheker/static/js/787.a19b4cac.chunk.js.map"
+    "main.6e96ef82.css.map": "/github.oi/palindromecheker/static/css/main.6e96ef82.css.map",
+    "main.54f12e72.js.map": "/github.oi/palindromecheker/static/js/main.54f12e72.js.map"
   },
   "entrypoints": [
-    "static/css/main.073c9b0a.css",
-    "static/js/main.2cc6929c.js"
+    "static/css/main.6e96ef82.css",
+    "static/js/main.54f12e72.js"
   ]
 }
