@@ -19,7 +19,7 @@ class Main extends Component {
         array = this.state.word.split("");
         let str2 = (array.reverse(array).join("")).replace(reg ,'');
         let result = this.state.word.replace(reg ,'') === str2;
-        console.log(result);
+       
         this.setState({
             ispalindrom:result,
             palindrom: str2,
@@ -45,7 +45,7 @@ class Main extends Component {
                 ispalindrom : 'Waiting for input',
                 cssforresult : 'palinresult waiting'
             })
-            console.log(this.state.ispalindrom)
+           
         }
 
         return (
