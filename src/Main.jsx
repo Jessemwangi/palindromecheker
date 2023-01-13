@@ -59,7 +59,7 @@ class Main extends Component {
                     <hr />
                     <div>
                         {this.state.palindrom}
-                        :   : is palindron
+                        :   : is palindrome
                         <div className={this.state.ispalindrom === true ? this.state.cssforresult +' ispalindrom' : 
                         this.state.cssforresult +' notPalindrom'}>
 
